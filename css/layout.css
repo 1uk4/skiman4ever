@@ -1,0 +1,57 @@
+.corp {
+	width: 80%;
+	margin: auto;
+	margin-top: 30px;
+}
+
+
+.box-page {
+	background-color: white;
+	margin: auto;
+	opacity: 0.75;
+	width: 75%;
+	min-width: 300px;
+	display: inline-block;
+}
+
+.img_header {
+	margin: auto;
+	width: 70%;
+}
+
+.lien_menu {
+	font-size: 20px;
+	color: black;
+	border-bottom: 3px transparent solid;
+	padding-bottom: 2px;
+}
+
+.titre-paragraphe {
+	border-bottom: 2px black dashed;
+}
+
+
+.p_text-img {
+	width: 80%;
+}
+
+.text-img {
+	display: flex;
+	width: 100%;
+}
+
+.img_portrait {
+	width: 150px;
+	margin-right: 40px;
+	opacity: 1;
+	text-align: right;
+}
+
+
+.img_fleche {
+	position: relative;
+	left:103%;
+	width: 60px;
+	border-radius: 30px;
+	opacity: 0.5;
+}
